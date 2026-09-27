@@ -161,13 +161,13 @@ const jay = {
 <div align="center">
 
 | Layer | Tech |
-|-------|------|
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat-square&logo=nodemon&logoColor=BBDEAD) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Data & Tools** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Deploy** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) |
+|:---|:---|
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white) |
+| **Database** | ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **DevOps & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) |
+| **Core Concepts** | ![DSA](https://img.shields.io/badge/DSA-FF6F00?logo=leetcode&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-6A1B9A?logo=cplusplus&logoColor=white) ![SDLC](https://img.shields.io/badge/SDLC-0078D4?logo=azuredevops&logoColor=white) ![Operating System](https://img.shields.io/badge/Operating_System-555555?logo=linux&logoColor=white) ![Computer Networks](https://img.shields.io/badge/Computer_Networks-1E88E5?logo=cisco&logoColor=white) |
 
 </div>
 
@@ -177,9 +177,6 @@ const jay = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JayGupta2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=94a3b8" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayGupta2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=94a3b8" width="45%"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayGupta2005&theme=tokyonight&hide_border=true&background=0d1117&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=94a3b8&dates=94a3b8" width="60%"/>
 
 </div>
@@ -187,18 +184,6 @@ const jay = {
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JayGupta2005&theme=radical&no-frame=true&margin-w=8&row=1" /> </p>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
 
 ---
 
