@@ -184,11 +184,6 @@ const jay = {
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
----
-
 <div align="center">
 
 **📬 Open to Collaboration & Internship Opportunities**
