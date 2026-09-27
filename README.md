@@ -188,11 +188,7 @@ const jay = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JayGupta2005&theme=tokyonight&no-frame=true&margin-w=8&row=1"/>
-
-</div>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=JayGupta2005&theme=radical&no-frame=true&margin-w=8&row=1" /> </p>
 
 ---
 
