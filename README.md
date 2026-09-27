@@ -28,17 +28,19 @@
 
 ```js
 const jay = {
-  role      : ["Software Developer", "DSA Enthusiast"],
-  status    : "B.Tech Student",
-  focus     : ["MERN Stack", "Data Structures & Algorithms"],
-  devStack  : ["React", "Node.js", "Express", "MongoDB"],
-  languages : ["C", "C++", "JavaScript", "Python"],
-  currently : "Exploring new technologies to expand my skills 🚀",
+  Role: Software Developer & DSA Enthusiast.
+  Education: B.Tech Computer Science Student.
+  Focus: MERN Stack, DevOps & Data Structures and Algorithms.
+  Development: React, Node.js, Express, MongoDB.
+  DevOps: Git, GitHub Actions, Docker, CI/CD, AWS.
+  Languages: C++, JavaScript, Python.
+  Problem Solving: LeetCode & HackerRank.
+  Currently: Building full-stack projects and exploring DevOps technologies.
 };
 ```
 
 - 📚 Completed **Data Structures & Algorithms** and **Web Development**
-- 🌐 Exploring the **MERN stack** — React, Node.js, Express, MongoDB
+- 🌐 Exploring the **Devops**
 - ⚡ Actively solving problems on **LeetCode** and **HackerRank**
 - 🔭 Currently building full-stack projects to sharpen real-world skills
 - 🤝 Open to collaboration on projects — reach out anytime!
